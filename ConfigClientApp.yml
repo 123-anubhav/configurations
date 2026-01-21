@@ -5,5 +5,5 @@ welcome:
   solution: solution is enable actuator end point expose url refresh and now boot changes refreshscope to @ConfigurationProperties both is necessary for reflect data at rest end side display with refreshscope is was working previously but did not reflected at rest end point to debug refreshscope hit 'http://localhost:5678/ConfigClientApp/default'
 
 msg:
- c: boot version 2.x works it was boot version issue -------------hjgjhgj-------------
+ c: boot version 2.x works it was boot version issue 
 # Add any other app-specific properties here
