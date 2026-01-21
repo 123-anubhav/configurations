@@ -1,4 +1,3 @@
 msg: "anubhav - now working  actuator was missed and at .props should include/enable= refresh at actuator config"
-server:
- port: 9595
+info: "u should put server.port in app bcos what config server says"
 # Add any other app-specific properties here
