@@ -1,4 +1,4 @@
-msg: "anubhav - now working "
+msg: "anubhav - now working  actuator was missed and at .props should include/enable= refresh at actuator config"
 server:
  port: 9595
 # Add any other app-specific properties here
