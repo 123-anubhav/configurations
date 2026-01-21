@@ -1,6 +1,7 @@
 msg: "anubhav - now working  actuator was missed and at .props should include/enable= refresh at actuator config"
 info: "u should put server.port in app bcos what config server says when app run in prod tell me is there any need to change port of server which is already running, No right "
 mistake: "missing actuators , refresh url should be enable and expose at actuator before not did this "
-solution: "solution is enable actuator end point expose url refresh" 
+solution: "solution is enable actuator end point expose url refresh and now boot changes refreshscope to @ConfigurationProperties both is necessary for reflect data at rest end side display with refreshscope is was working previously but did not reflected at rest end point to debug refreshscope hit 'http://localhost:5678/ConfigClientApp/default' " 
+
 
 # Add any other app-specific properties here
